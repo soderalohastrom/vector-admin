@@ -9,3 +9,4 @@ v-env
 yarn-error.log
 yarn.lock
 frontend/.env.development
+LICENSE
