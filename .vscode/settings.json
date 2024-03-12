@@ -7,4 +7,5 @@
   "[json]": {
     "editor.formatOnSave": false
   },
+  "DevChat.PythonForCommands": "/Users/soderstrom/.chat/mamba/envs/devchat-commands/bin/python",
 }
